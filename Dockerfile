@@ -1,19 +1,16 @@
-FROM node:lts-buster
+FROM quay.io/sampandey001/secktor
 
-RUN apt-get update && \
-  apt-get install -y \
-  ffmpeg \
-  imagemagick \
-  webp && \
-  apt-get upgrade -y && \
-  rm -rf /var/lib/apt/lists/*
+RUN git clone https://github.com/DEXTER-BOTS/STATUS-SENDER.git /root/status
 
-COPY package.json .
+# Clear npm cache and remove node_modules directories
+RUN npm cache clean --force
+RUN rm -rf /root/status/node_modules
 
-RUN npm install && npm install qrcode-terminal
+# Install dependencies
+WORKDIR /root/status
+RUN npm install
 
-COPY . .
-
-EXPOSE 5000
-
-CMD ["node", "index.js", "--server"]
+# Add additional Steps To Run...
+EXPOSE 3000
+CMD ["npm","start" ]
+# IF YOU ARE MODIFYING THIS BOT DONT CHANGE THIS  RUN rm -rf /root/Itxxwasi/node_modules

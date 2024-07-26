@@ -1,18 +1,83 @@
-<p align="center">  
-  <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="Guru" height="300" src="https://telegra.ph/file/97467fa11f63cae0d3be8.jpg">
-    <h1 align="center">VENOM-BOT 1.O</h1>
+
+## <p align="center">❮ 𝗥𝗖𝗗-MD WHATSAPP BOT ❯
+<br>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&color=FF0000&random=false&width=435&lines=WELCOME+TO+THE+𝗥𝗖𝗗-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+RCD+TEAM;RELEASED+DATE+10%2F06%2F2024." alt="Typing SVG" />
   </a>
 </p>
-<p align="center">
-<a href="https://whatsapp.com/channel/0029VaQim2bAu3aPsRVaDq3v">channel</a>
-<p/>
 
-1. أولاً يجب عليك التسجيل في منصبه ريندر
-    <br>
-<p align="center"><a href="https://replit.com/signup"> <img src="https://img.shields.io/badge/Render%20Account-blue?style=for-the-badge&logo=Render" width="220" height="38.45"/></a></p>
 
-2. ثانياً أخذ creds.json من هذا الحساب
-    <br>
-<p align="center"><a href="https://repl.it/@VENOMOV/VENOM-QRCODE"> <img src="https://img.shields.io/badge/venom%20Dcode-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
+<img src="https://telegra.ph/file/a789a7f2437c053ec829a.jpg" width="540" height="280" />
+</p>         ⚔ 𝐑𝐂𝐃 𝐌𝐃 ⚔
+
+### Setup
+
+**📌DEPLOY ON HEROKU**
+   - ***Click [`FORK`](https://github.com/DEXTER-BOTS/RCD-MD/fork) and `Star ⭐ Repository` for Courage.***
+   - You will get a session ID in WhatsApp, copy the ID only.
+   - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**p
+</p>
+🌟 𝗥𝗖𝗗 𝗪𝗘𝗕 𝗦𝗜𝗧𝗘 🌟
+
+<a href="https://rcd-md-qr-link.onrender.com/"><img src="https://img.shields.io/badge/RCD-WEB%20SITE-red" alt="RCD WEB SITE" width="250"></a>
+
+**`𝗥𝗖𝗗 𝗠𝗗 𝗕𝗢𝗧`**
+
+##  PAIRING CODE SCAN
+
+<a href="https://rcd-md-session-id.onrender.com"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
+
+## DEPLOY IN HEROKU
+
+ [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fpurnapurna2007%2FSend2%3Ftab%3Dreadme-ov-file&template=https://github.com/DEXTER-BOTS/STATUS-SENDER)
+ 
+##  DEPLOY RENDER
+# <a href="https://dashboard.render.com/web/new"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RENDER-h?color=red&style=for-the-badge&logo=msi"></a>
+ 
+<br><br>
+
+```
+SESSION_ID
+```
+```
+AUTO_READ_STATUS
+```
+```
+PREFIX
+```
+```
+MODE
+```
+```
+WAPRESENCE
+```
+```
+OWNER_NAME
+```
+```
+OWNER_NUMBER
+```
+```
+IMAGE
+```
+# <a href="https://uptimerobot.com/signUp?ref=hp-hero"><img title="railway" src="https://img.shields.io/badge/UPTIME ROBOT-h?color=red&style=for-the-badge&logo=msi"></a>
+
+##  DEPLOY SCALINGO
+# <a href="https://auth.scalingo.com/users/sign_up"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON SCALINGO-h?color=red&style=for-the-badge&logo=msi"></a>
+
+##  DEPLOY RAILWAY
+# <a href="https://railway.app/template/9oodXq?referralCode=JWglkx"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RAILWAY-h?color=green&style=for-the-badge&logo=msi"></a>
+
+Contributions to RCD-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+
+## License
+
+The RCD-MD is released.
+
+Enjoy the diverse features of the RCD-MD  to enhance your conversations and make your WhatsApp experience more interesting!
+
+## Developer:
+- [**WhatsApp**](https://wa.me/94789958225)
